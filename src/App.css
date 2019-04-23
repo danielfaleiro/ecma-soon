@@ -44,3 +44,10 @@ a {
 a:hover {
   color: #957E51;
 }
+
+@media screen and (max-width: 960px) {
+  .App-logo {
+    width: 100%;
+    height: 100%;
+  }
+}
