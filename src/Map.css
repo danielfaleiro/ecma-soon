@@ -1,0 +1,13 @@
+#map {
+    min-height: 240px;
+    width: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width: 960px) {
+    #map {
+        width: 100%;
+        margin-bottom: 0px;
+    }
+}
