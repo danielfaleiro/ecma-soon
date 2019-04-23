@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecma-soon/static/css/main.ab964b26.chunk.css",
+    "main.js": "/ecma-soon/static/js/main.30359fb5.chunk.js",
+    "main.js.map": "/ecma-soon/static/js/main.30359fb5.chunk.js.map",
+    "runtime~main.js": "/ecma-soon/static/js/runtime~main.a9f6d2c9.js",
+    "runtime~main.js.map": "/ecma-soon/static/js/runtime~main.a9f6d2c9.js.map",
+    "static/js/2.046c266d.chunk.js": "/ecma-soon/static/js/2.046c266d.chunk.js",
+    "static/js/2.046c266d.chunk.js.map": "/ecma-soon/static/js/2.046c266d.chunk.js.map",
+    "index.html": "/ecma-soon/index.html",
+    "precache-manifest.4301dfea4c5ff71c7bf4c7d57ca4cf65.js": "/ecma-soon/precache-manifest.4301dfea4c5ff71c7bf4c7d57ca4cf65.js",
+    "service-worker.js": "/ecma-soon/service-worker.js",
+    "static/css/main.ab964b26.chunk.css.map": "/ecma-soon/static/css/main.ab964b26.chunk.css.map",
+    "static/media/ECMA - gold.png": "/ecma-soon/static/media/ECMA - gold.027705bf.png"
+  }
+}
